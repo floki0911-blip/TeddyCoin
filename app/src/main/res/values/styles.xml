@@ -1,0 +1,1 @@
+<resources><style name="Theme.TeddyCoin" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">false</item><item name="android:statusBarColor">#15110D</item><item name="android:navigationBarColor">#15110D</item></style></resources>
